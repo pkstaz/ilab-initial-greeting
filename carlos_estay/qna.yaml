@@ -1,0 +1,175 @@
+version: 3
+domain: Saludos
+created_by: Carlos Estay
+document_outline: |
+    Presentacion de Carlos Estay
+seed_examples:
+  - context: |
+      Contactar
+
+      78149678 (Mobile)
+
+      c.estay.g@gmail.com
+
+      www.linkedin.com/in/cestayg
+
+      (LinkedIn)
+
+      Aptitudes principales
+
+      Web Services
+
+      ASP.NET
+
+      Presales
+    questions_and_answers:
+      - question: |
+          cual es el telefono de Carlos Estay?
+        answer: |
+          78149678
+      - question: |
+          cual es el email de Carlos Estay?
+        answer: |
+          c.estay.g@gmail.com
+      - question: |
+          cual es el linkedin de Carlos Estay?
+        answer: |
+          www.linkedin.com/in/cestayg
+  - context: |
+      ## Carlos Estay González
+
+      Associate Principal AI Specialist Solution Architect en Red Hat Gran Santiago, Región Metropolitana de Santiago, Chile
+    questions_and_answers:
+      - question: |
+          Quien es Carlos Estay?
+        answer: |
+          Carlos es Associate Principal AI Specialist Solution Architect en Red Hat.
+      - question: |
+          De donde es Carlos Estay
+        answer: |
+          Carlos vive en Santiago de Chile
+      - question: |
+          Cual es el rol de Carlos Estay
+        answer: |
+          Associate Principal AI Specialist Solution Architect
+  - context: |
+      ## Experiencia
+
+      ### Red Hat
+
+      3 años 4 meses
+
+      Associate Principal AI Specialist Solution Architect agosto de 2024 - Present (7 meses)
+
+      Las Condes, Región Metropolitana de Santiago, Chile
+
+      Senior Specialist Solutions Architect octubre de 2023 - agosto de 2024 (11 meses)
+
+      Gran Santiago, Región Metropolitana de Santiago, Chile
+
+      Specialist Solutions Architect noviembre de 2021 - octubre de 2023 (2 años)
+
+      Santiago, Región Metropolitana de Santiago, Chile
+    questions_and_answers:
+      - question: |
+          Cuanto tiempo ha trabajado Carlos en Red Hat
+        answer: |
+          Carlos ha trabajado en Red Hat 3 años 4 meses
+      - question: |
+          Cuales han sido los cargos de Carlos en Red Hat
+        answer: |
+          Associate Principal AI Specialist Solution Architect, Senior Specialist Solutions Architect y Specialist Solutions Architect
+      - question: |
+          Cuando comenzo a trabajar carlos en Red Hat
+        answer: |
+          Carlos comenzo a trabajar en Red Hat en Noviembre de 2021
+  - context: |
+      ## Educación
+
+      Universitat Politècnica de Catalunya (UPC)
+
+      Master's Degree in DevOps y Cloud Computing, Tecnología de la información · (2021 - 2023)
+
+      Universidad Nacional Andrés Bello
+
+      Magíster en Ingeniería Informática · (2018 - 2020)
+
+      Universidad tecnológica de Chile
+
+      Ingeniería en Informática, Informatica · (2011 - 2015)
+    questions_and_answers:
+      - question: |
+          Que estudio Carlos Estay?
+        answer: |
+          Carlos en Ingeniero en informatica, magister en informatica y master en devops & cloud computing.
+      - question: |
+          En que universidad curso su pregrado Carlos Estay?
+        answer: |
+          Carlos hizo su pre grado en la Universidad tecnológica de Chile.
+      - question: |
+          En que universidad hizo su post grado Carlos Estay?
+        answer: |
+          Carlos hizo su post grado en la Universidad Nacional Andrés Bello y en la niversitat Politècnica de Catalunya (UPC)
+  - context: |
+      ## Educación
+
+      Universitat Politècnica de Catalunya (UPC)
+
+      Master's Degree in DevOps y Cloud Computing, Tecnología de la información · (2021 - 2023)
+
+      Universidad Nacional Andrés Bello
+
+      Magíster en Ingeniería Informática · (2018 - 2020)
+
+      Universidad tecnológica de Chile
+
+      Ingeniería en Informática, Informatica · (2011 - 2015)
+    questions_and_answers:
+      - question: |
+          Que estudio Carlos Estay en la Universidad tecnológica de Chile?
+        answer: |
+          Carlos estudio Ingeniería en Informática, titulandose el año 2015
+      - question: |
+          Que estudio Carlos Estay en la Universidad Nacional Andrés Bello?
+        answer: |
+          Carlos curso un Magíster en Ingeniería Informática, titulandose el año 2015
+      - question: |
+          Que estudio Carlos Estay en la Universitat Politècnica de Catalunya (UPC)?
+        answer: |
+          Carlos curso un Master's Degree in DevOps y Cloud Computing
+  - context: |
+      ## Certifications
+
+      AWS Academy Graduate - AWS Academy Cloud Foundations
+
+      AWS Academy Graduate - AWS Academy Introduction to Cloud Semester 2
+
+      AWS Academy Graduate - AWS Academy Introduction to Cloud Semester 1
+
+      Red Hat® Certified Specialist in Containers and Kubernetes
+
+      Red Hat® Certified Cloud-Native Developer
+
+      Red Hat® Certified Specialist in Event-Driven Development
+
+      Red Hat® Certified Specialist in Containers
+
+      AWS Academy Graduate - AWS Academy Data Center Technician
+    questions_and_answers:
+      - question: |
+          Cuantas certificaciones tiene Carlos Estay?
+        answer: |
+          Carlos tiene 4 Certificaciones.
+      - question: |
+          Donde obtuvo Carlos Estay sus certificaciones
+        answer: |
+          Carlos obtuvo sus certificaciones en Red Hat.
+      - question: |
+          Que certificaciones tiene Carlos Estay?
+        answer: |
+          Red Hat® Certified Specialist in Containers and Kubernetes, Red Hat® Certified Cloud-Native Developer, Red Hat® Certified Specialist in Event-Driven Development y Red Hat® Certified Specialist in Containers 
+document:
+  repo: 'https://github.com/pkstaz/ilab-initial-greeting.git'
+  commit: b2ee3edf7c1b7eafdc1ba97f7e97946e6498389d
+  patterns:
+    - 'carlos_estay/*.md'
