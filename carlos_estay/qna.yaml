@@ -170,6 +170,6 @@ seed_examples:
           Red Hat® Certified Specialist in Containers and Kubernetes, Red Hat® Certified Cloud-Native Developer, Red Hat® Certified Specialist in Event-Driven Development y Red Hat® Certified Specialist in Containers.
 document:
   repo: 'https://github.com/pkstaz/ilab-initial-greeting.git'
-  commit: b2ee3edf7c1b7eafdc1ba97f7e97946e6498389d
+  commit: b37a186e00d0954cc716f4a6c124f89244733fd6
   patterns:
     - 'carlos_estay/Profile.md'
